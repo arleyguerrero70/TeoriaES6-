@@ -30,7 +30,7 @@ let lorem ="Lorem Ipsum is simply dummy text of the printing and typesetting ind
 + "Otra frase épica."
 
 // ES6 Multilinea
-let lorem2 = `Otra frase que necesitamos 
+let lorem2 = `Otra frase que necesitamos
 ahora es otra frase en otra linea`;
 
 console.log(lorem);
